@@ -1,0 +1,13 @@
+torch==2.0.1
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+ogb
+networkx
+matplotlib
+pandas
+seaborn
+scikit-learn
+tqdm
